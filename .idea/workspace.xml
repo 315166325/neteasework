@@ -7,62 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9db22761-f5b3-42cc-ab5f-995a06e51dd2" name="Default" comment="发布版本v1.0">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/netease_bigwork_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/netease_bigwork_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netease_bigwork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/netease_bigwork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/Model/HostHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/Model/HostHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/controller/FreeMarkerViewUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/controller/FreeMarkerViewUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/controller/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/controller/ItemController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/interceptor/LoginIntercepor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/interceptor/LoginInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/interceptor/PassIntercepor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/interceptor/SellerPassIntercepor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/BGS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/BuyerGoods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/BuyerGoods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/CartItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/Goods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/resource/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/resource/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/springMVC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/springMVC.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/global.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/pageShow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/pageShow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/public.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/public.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/settleAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/settleAccount.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/account.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/account.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/cart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/edit.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/include/publicInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/include/publicInfo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index2.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/publish.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/publish.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/sellerShow.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/sellerShow.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/base/BaseJunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/BaseJunitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/user/UserTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/Model/HostHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/netease/bigwork/Model/HostHolder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/controller/FreeMarkerViewUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/netease/bigwork/controller/FreeMarkerViewUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/controller/ItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/netease/bigwork/controller/ItemController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/netease/bigwork/controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/interceptor/LoginIntercepor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/interceptor/PassIntercepor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/netease/bigwork/mapper/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/netease/bigwork/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/BGS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/BuyerGoods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/BuyerGoods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/Goods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/Goods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/netease/bigwork/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/netease/bigwork/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/resource/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/resource/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/applicationContext-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/springMVC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/springMVC.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="netease_bigwork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -122,15 +67,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publicInfo.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/include/publicInfo.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="27" column="37" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="account.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/account.jsp">
           <provider selected="true" editor-type-id="text-editor">
@@ -152,11 +88,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SellerPassIntercepor.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SellerPassIntercepor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/netease/bigwork/interceptor/SellerPassIntercepor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="72" lean-forward="true" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+            <state relative-caret-position="27">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="181" column="34" lean-forward="true" selection-start-line="181" selection-start-column="34" selection-end-line="181" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -198,7 +143,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>s</find>
       <find>api</find>
       <find>200</find>
       <find>editsub</find>
@@ -228,6 +172,7 @@
       <find>cart2</find>
       <find>buy</find>
       <find>delete</find>
+      <find>file</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -246,7 +191,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editSubmit.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/publicSubmit.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/resource/db.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/style.css" />
         <option value="$PROJECT_DIR$/src/main/java/com/netease/bigwork/Model/HostHolder.java" />
@@ -287,6 +231,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/netease/bigwork/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/netease/bigwork/service/UserService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -1273,7 +1218,7 @@
       <workItem from="1521535132678" duration="2997000" />
       <workItem from="1548222185828" duration="22039000" />
       <workItem from="1548330342674" duration="58000" />
-      <workItem from="1548335995499" duration="84635000" />
+      <workItem from="1548335995499" duration="85301000" />
     </task>
     <task id="LOCAL-00001" summary="添加日志">
       <created>1517834041658</created>
@@ -1423,7 +1368,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="653908000" />
+    <option name="totallyTimeSpent" value="654574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1557,13 +1502,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="27" column="38" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1938,8 +1876,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/netease/bigwork/interceptor/SellerPassIntercepor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="72" lean-forward="true" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+        <state relative-caret-position="27">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="181" column="34" lean-forward="true" selection-start-line="181" selection-start-column="34" selection-end-line="181" selection-end-column="34" />
         </state>
       </provider>
     </entry>
