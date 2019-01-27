@@ -1,0 +1,15 @@
+com\netease\bigwork\pojo\Goods.class
+com\netease\bigwork\pojo\Result.class
+com\netease\bigwork\interceptor\PassIntercepor.class
+com\netease\bigwork\pojo\User.class
+com\netease\bigwork\controller\ItemController.class
+com\netease\bigwork\controller\LoginController.class
+com\netease\bigwork\interceptor\LoginIntercepor.class
+com\netease\bigwork\controller\FreeMarkerViewUtil.class
+com\netease\bigwork\service\impl\UserServiceImpl.class
+com\netease\bigwork\Model\HostHolder.class
+com\netease\bigwork\pojo\BGS.class
+com\netease\bigwork\mapper\UserMapper.class
+com\netease\bigwork\service\UserService.class
+com\netease\bigwork\pojo\BuyerGoods.class
+com\netease\bigwork\pojo\Data.class
