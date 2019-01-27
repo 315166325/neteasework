@@ -6,182 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9db22761-f5b3-42cc-ab5f-995a06e51dd2" name="Default" comment="发布版本v1.0">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/netease_bigwork_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/netease_bigwork_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netease_bigwork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/neteasework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/Model/HostHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/Model/HostHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/controller/FreeMarkerViewUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/controller/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/controller/ItemController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/interceptor/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/interceptor/LoginInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/interceptor/SellerPassIntercepor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/interceptor/SellerPassIntercepor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/BuyerGoods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/pojo/BuyerGoods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/CartItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/pojo/CartItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/pojo/Goods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/pojo/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netease/bigwork/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netease/work/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/resource/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/resource/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/resource/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/resource/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/resource/mall_user.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/springMVC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/springMVC.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/global.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/md5.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/md5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/pageIndex.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/pageIndex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/pageLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/pageLogin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/pageShow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/pageShow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/public.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/public.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/settleAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/settleAccount.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/account.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/account.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/cart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/deleteSubmit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/deleteSubmit.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/edit.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editSubmit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editSubmit.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/error.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/include/publicInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/include/publicInfo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index2.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/publicSubmit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/publicSubmit.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/publish.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/publish.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/sellerShow.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/sellerShow.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/include/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/include/head.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/include/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/include/support.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/BaseJunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/BaseJunitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/Model/HostHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/controller/FreeMarkerViewUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/controller/ItemController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/controller/LoginController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/interceptor/LoginInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/interceptor/SellerPassIntercepor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/BuyerGoods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/CartItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/Goods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/netease/bigwork/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/resource/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/resource/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/resource/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/resource/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/applicationContext-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/springMVC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/springMVC.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/Model/HostHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/controller/FreeMarkerViewUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/controller/ItemController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/controller/LoginController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/interceptor/LoginInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/interceptor/SellerPassIntercepor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/pojo/BuyerGoods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/pojo/CartItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/pojo/Goods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/pojo/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/com/netease/bigwork/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/resource/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/resource/freemarker.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/resource/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-dao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/classes/spring/springMVC.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548229759245南京眼.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548230924143南京眼.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548377253827暴风截图20161264372193.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548385632323暴风截图20161212116672820.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548398256405暴风截图20161264205334.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548400104192暴风截图20161217178355927.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548408290250暴风截图20161212116671275.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548408514505暴风截图20161264251292.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548555256212暴风截图20161264372193.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548555295603暴风截图20161264236129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548555343279暴风截图20161264834829.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548573402464暴风截图20161264236129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548581779865暴风截图20161217178355927.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548581788261暴风截图20161212116662929.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/image/1548581814595暴风截图20161264385281.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/md5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/pageIndex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/pageLogin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/pageShow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/public.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/js/settleAccount.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/account.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/cart.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/deleteSubmit.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/edit.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/editSubmit.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/error.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/include/header.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/include/publicInfo.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/index2.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/publicSubmit.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/publish.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/jsp/sellerShow.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/classloader-leak-prevention-core-2.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/classloader-leak-prevention-servlet-2.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.9.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/commons-io-1.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/commons-lang-2.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/druid-1.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/ezmorph-1.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/freemarker-2.3.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.8.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.8.11.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/json-lib-2.2.3-jdk15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.2.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.3.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.1.3.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.3.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.1.3.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.1.3.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.1.3.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.3.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.1.3.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.1.3.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.1.3.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.3.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/view/include/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/view/include/head.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/view/include/header.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/view/include/support.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/view/login.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mall-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseJunitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BaseJunitTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="9db22761-f5b3-42cc-ab5f-995a06e51dd2" name="Default" comment="发布版本v1.0" />
     <ignored path="netease_bigwork.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -300,8 +125,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="243">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -1281,7 +1106,7 @@
       <workItem from="1548330342674" duration="58000" />
       <workItem from="1548335995499" duration="92283000" />
       <workItem from="1548603384278" duration="171000" />
-      <workItem from="1548603633082" duration="2036000" />
+      <workItem from="1548603633082" duration="2405000" />
     </task>
     <task id="LOCAL-00001" summary="添加日志">
       <created>1517834041658</created>
@@ -1431,7 +1256,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="663763000" />
+    <option name="totallyTimeSpent" value="664132000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1457,7 +1282,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.24923313" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.7347162" visible="true" weight="0.39614996" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7347162" weight="0.57244176" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.47881997" weight="0.4154002" />
       <window_info id="Palette&#9;" order="6" />
@@ -1895,8 +1720,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -1906,12 +1731,11 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>netease_bigwork:war</last-edited>
+          <last-edited>neteasework:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
-                <option value="0.5" />
+                <option value="0.23404256" />
               </list>
             </option>
           </splitter-proportions>
@@ -1923,7 +1747,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.23404256" />
               </list>
             </option>
           </splitter-proportions>
@@ -1934,7 +1758,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.23404256" />
               </list>
             </option>
           </splitter-proportions>
@@ -1946,7 +1770,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.23404256" />
               </list>
             </option>
           </splitter-proportions>
@@ -1954,11 +1778,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|netease_bigwork</last-edited>
+          <last-edited>neteasework</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.23404256" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1978,7 +1803,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
