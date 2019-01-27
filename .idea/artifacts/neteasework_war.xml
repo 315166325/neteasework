@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="neteasework:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mall-1.2-SNAPSHOT.war">
+      <element id="artifact" artifact-name="neteasework:war exploded" />
+    </root>
+  </artifact>
+</component>

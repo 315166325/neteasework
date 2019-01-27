@@ -8,8 +8,8 @@
         http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
 
 
-    <mvc:annotation-driven />
-    <context:component-scan base-package="com.netease.bigwork.controller" />
+    <mvc:annotation-driven/>
+    <context:component-scan base-package="com.netease.work.controller"/>
     <!--资源映射,保证静态资源不会像controller那样被拦截/WEB-INF/css/-->
     <mvc:resources mapping="/css/**" location="/WEB-INF/css/"/>
     <mvc:resources mapping="/js/**" location="/WEB-INF/js/"/>
@@ -17,8 +17,8 @@
     <mvc:resources mapping="/jsp/**" location="/WEB-INF/jsp/"/>
     <!--jsp解析-->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
-        <property name="prefix" value="/WEB-INF/jsp/" />
-        <property name="suffix" value=".jsp" />
+        <property name="prefix" value="/WEB-INF/jsp/"/>
+        <property name="suffix" value=".jsp"/>
     </bean>
 
 
@@ -26,7 +26,7 @@
     <mvc:interceptors>
         <mvc:interceptor>
             <!-- 拦截器拦截的URL格式 -->
-            <mvc:mapping path="/**" />
+            <mvc:mapping path="/**"/>
             <mvc:exclude-mapping path="/login"/>
             <mvc:exclude-mapping path="/userLogin"/>
             <mvc:exclude-mapping path="/"/>
@@ -36,17 +36,14 @@
             <mvc:exclude-mapping path="/js/**"/>
             <mvc:exclude-mapping path="/image/**"/>
             <mvc:exclude-mapping path="/jsp/**"/>
-            <!--&lt;!&ndash;exclude无效&ndash;&gt;-->
-            <!--<mvc:exclude-mapping path="/show"/>-->
-            <!-- 处理拦截的具体实现类 -->
-            <bean class="com.netease.bigwork.interceptor.LoginInterceptor" />
+            <bean class="com.netease.work.interceptor.LoginInterceptor"/>
         </mvc:interceptor>
     </mvc:interceptors>
 
     <mvc:interceptors>
         <mvc:interceptor>
-            <mvc:mapping path="/seller/**" />
-            <bean class="com.netease.bigwork.interceptor.SellerPassIntercepor" />
+            <mvc:mapping path="/seller/**"/>
+            <bean class="com.netease.work.interceptor.SellerPassIntercepor"/>
         </mvc:interceptor>
     </mvc:interceptors>
 
